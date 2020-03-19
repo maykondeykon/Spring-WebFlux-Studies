@@ -29,3 +29,7 @@ build/
 
 ### VS Code ###
 .vscode/
+/lsp/
+/.mvn/wrapper/
+/mvnw
+/mvnw.cmd
